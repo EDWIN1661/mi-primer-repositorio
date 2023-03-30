@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primer repositorio en GIThub
+Mi primer repositorio en GIThub curso
